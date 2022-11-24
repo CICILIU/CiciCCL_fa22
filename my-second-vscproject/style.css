@@ -1,0 +1,65 @@
+
+
+canvas {
+  display: block;
+}
+
+h1 {
+  color: blue;
+  font-family: 'futura';
+}
+
+ol {
+  color: aqua;
+  font-size: 200%;
+}
+
+p {
+  color: rgb(246, 245, 245);
+  background-color: rgb(6, 206, 79);
+  font-size: 16px;
+  font-weight: normal;
+}
+
+p {
+  background-color: darkorange;
+}
+
+.animal {
+  color: rgb(227, 239, 12);
+  background-color: blueviolet;
+}
+
+#corgi {
+  font-family: futura;
+  font-size: 72px;
+}
+
+#sphinx {
+  color: blue;
+  font-size: 72px;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+#link1 {
+  font-size: 60px;
+}

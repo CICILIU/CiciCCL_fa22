@@ -1,0 +1,17 @@
+html, body {
+  margin: 100;
+  padding: 100;
+}
+canvas {
+  display: block;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  color: aqua;
+}
+
+p {
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,41 @@
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    font-size: 36px;
+}
+
+.title {
+    background-color: purple;
+    color: azure;
+    margin: 2px;
+}
+
+#corgi {
+    background-color: black;
+}
+
+#sphinx {
+    background-color: darksalmon;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+
