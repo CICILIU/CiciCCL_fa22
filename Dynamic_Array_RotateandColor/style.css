@@ -9,6 +9,7 @@ canvas {
 h1 {
   font-family: 'Courier New', Courier, monospace;
   color: aqua;
+  font-size: 36px;
 }
 
 p {
